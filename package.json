@@ -1,16 +1,16 @@
 {
-  "name": "@vivjs/monorepo",
+  "name": "@hms-dbmi/viv",
   "version": "0.13.6",
   "author": "Ilan Gold",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hms-dbmi/viv.git"
+    "url": "git+https://github.com/develrocket/my-viv.git"
   },
   "bugs": {
-    "url": "https://github.com/hms-dbmi/viv/issues"
+    "url": "https://github.com/develrocket/my-viv/issues"
   },
-  "homepage": "https://github.com/hms-dbmi/viv#readme",
+  "homepage": "https://github.com/develrocket/my-viv#readme",
   "scripts": {
     "dev": "pnpm -r dev",
     "build": "pnpm -r --parallel build",
